@@ -1,0 +1,6 @@
+Description: Cockpit
+Maintainer: dream-alpha
+Package: enigma2-plugin-extensions-dreamcockpit
+Version: 0.3.6
+Architecture: all
+Depends: enigma2-skin-shadow-fhd, enigma2-plugin-extensions-moviecockpit, enigma2-plugin-extensions-mediacockpit, enigma2-plugin-systemplugins-powercockpit, enigma2-plugin-extensions-timeshiftcockpit, enigma2-plugin-extensions-piconcockpit, enigma2-plugin-extensions-tmdbcockpit, enigma2-plugin-extensions-mediathekcockpit, enigma2-plugin-extensions-tvmagazinecockpit
